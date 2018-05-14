@@ -1,0 +1,5 @@
+.postimg {
+    opacity: 0;
+    transition: all 2s ease-out;
+    width: 100%;
+}
